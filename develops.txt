@@ -3,6 +3,9 @@
 Here I will be making a lot of projects
 and surely push them here.
 
+the languages that I will be using here are 
+1) javascript
+2) C++
 
 
 
